@@ -1,4 +1,24 @@
 ##Here you can find some tools and scripts that I use
 
+Environment:
 -Virtual Box 
 -Kali linux 
+
+Scaning and enumeration;
+.Nmap 
+.Globuster
+
+Cracking and criptografy; 
+.john the ripper 
+.ssh2john 
+
+Analysis and Utils:
+.SQLite3
+.Strings
+.File command
+
+Basic linux comands; 
+. ls - list
+. cat -  show file content
+. cd - move 
+. file creation (vi, echo, mousepad) 
