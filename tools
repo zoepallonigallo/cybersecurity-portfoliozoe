@@ -22,3 +22,30 @@ Basic linux comands;
 . cat -  show file content
 . cd - move 
 . file creation (vi, echo, mousepad) 
+
+
+----
+## Aquí podrás encontrar varias herramientas y scripts que uso.
+
+Entorno;
+.VirtualBox
+.Kali Linux
+
+Escaneo y Enumeración;
+.Nmap
+.Gobuster
+
+Cracking y Cifrado;
+.John the Ripper
+.ssh2john
+
+Análisis y Utilidades;
+.SQLite3
+.Strings
+.Comando File
+
+Comandos Básicos de Linux;
+.ls - Listar contenido del directorio
+.cat - Mostrar contenido de un archivo
+.cd - Cambiar de directorio (navegar)
+.creación de archivos (vi, echo, mousepad)
